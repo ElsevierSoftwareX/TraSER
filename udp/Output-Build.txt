@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: udp, Configuration: Release Win32 ------
+1>  stdafx.cpp
+1>  udp.cpp
+1>  Generating code
+1>  Finished generating code
+1>  ConsoleApplication1.vcxproj -> C:\Users\ISUSunny\Dropbox\UDP\udp\ConsoleApplication1\Release\udp.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
